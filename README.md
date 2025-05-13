@@ -95,7 +95,7 @@ Install from `requirements.txt`, or ensure these major libraries:
 
 ## 🖼️ Screenshot
 
-![App Screenshot](static/images/app_screenshot.png)
+![App Screenshot](https://github.com/aashnaaa/suspicious-activity-detector/blob/master/static/images/app_screenshot.png)
 
 ---
 

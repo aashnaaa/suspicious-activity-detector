@@ -16,6 +16,3 @@ Thumbs.db
 
 # Uploaded files by user
 static/uploads/*
-
-# Environment files
-.envs

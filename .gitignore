@@ -18,7 +18,4 @@ Thumbs.db
 static/uploads/*
 
 # Environment files
-.env
-
-# Models
-models/
+.envs
